@@ -1,6 +1,6 @@
 # Portfolio Website —by Krishna
 
-A clean, responsive developer portfolio showcasing my projects, skills, and contact links.
+A responsive developer portfolio showcasing my projects, skills, and contact links.
 
 ## Live Demo
 - Deployed on Vercel: <https://portfolio-website-eight-tau-30.vercel.app/>

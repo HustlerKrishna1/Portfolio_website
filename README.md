@@ -1,4 +1,4 @@
-# Portfolio Website —by Krishna
+# Portfolio Website
 
 A responsive developer portfolio showcasing my projects, skills, and contact links.
 
